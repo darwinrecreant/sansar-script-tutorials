@@ -23,7 +23,7 @@ Almost every script has parameters exposed to the user so they can configure it.
 |11|**Reference field** - depending on the referece type, this can allow you to refence other items, sounds, and object components (such as light)|
 |12|**List parameter** - this allows you to add up to 20 items to a list which can be any of the above types|
 |13|**'subscribe to' parameter** - distinguishable from the `->` **at the start** of the param name. This accepts an event name that the script should subscribe to trigger a certain action in the script, read the help text of the parameters to get clues from the script designer|
-|14|**'trigger' parameter** - distinguishable from the `->` **at the end** of the name. This accepts an event that the script should trigger when a certain action happens.
+|14|**'trigger' parameter** - distinguishable from the `->` **at the end** of the name. This accepts an event that the script should trigger when a certain action happens.|
 
 ## Events
 
