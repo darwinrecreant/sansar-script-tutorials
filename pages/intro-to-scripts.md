@@ -9,7 +9,7 @@ Almost every script has parameters exposed to the user so they can configure it.
 ![parameters](../assets/parameters.png)
 
 |#|Description|
-|---|---|---|
+|---|---|
 |1|**Object name** - this is visible in any component properties window|
 |2|**Script name** - this is the name as it appears in your inventory, you can select to change script, or update existing one, here|
 |3|**Subscript name** - this is the subscript within the selected script. A single script can hold many subscripts. After this point all parameters are different for each script you use, and what you see here are just examples.|
