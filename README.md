@@ -18,8 +18,8 @@ The tutorials here will show how to _use_ scripts and not how to write them.
 |3.1|&nbsp;&nbsp;[Hello World](pages/hello-world.md)|
 |3.2|&nbsp;&nbsp;[Door](pages/door.md)|
 |3.3|&nbsp;&nbsp;[Visitor Greeter](pages/visitor-greeter.md)|
-|3.4|&nbsp;&nbsp;Elevator|
-|3.5|&nbsp;&nbsp;Flashlight|
+|3.4|&nbsp;&nbsp;[Flashlight](pages/flashlight.md)|
+|3.5|&nbsp;&nbsp;Elevator|
 |3.6|&nbsp;&nbsp;Gun with physical bullets|
 |4|**Evo's Logic Scripts**|
 |4.1|&nbsp;&nbsp;Toggle|
