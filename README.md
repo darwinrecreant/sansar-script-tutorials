@@ -16,7 +16,7 @@ The tutorials here will show how to _use_ scripts and not how to write them.
 |2|**Sansar Script Library**|
 |3|**Script Examples**|
 |3.1|&nbsp;&nbsp;Hello World|
-|3.2|&nbsp;&nbsp;Click to open|
+|3.2|&nbsp;&nbsp;[Click to open](pages/click-to-open.md)|
 |3.3|&nbsp;&nbsp;Flashing Lights|s
 |3.4|&nbsp;&nbsp;Elevator|
 |3.5|&nbsp;&nbsp;Flashlight|
