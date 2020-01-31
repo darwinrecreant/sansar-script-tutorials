@@ -22,4 +22,6 @@ To make the flashlight functional, we will add the `Grab/Release` sansar script 
 
 ## Conclusion
 
-And voila, you have a functioning flashlight that turns on or off when grabbed and released.
+And voila, now you have a functioning flashlight that turns on or off when grabbed and released.
+
+![flashlight setup](../assets/flashlight.webp)
