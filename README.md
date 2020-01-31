@@ -4,7 +4,7 @@
 
 Scripts are writtin in C# and have access to Sansar api that allow scene builders to add extra functionality to an experience and it's visitors.
 
-Every script can be configured through it's exposed script parameters. Scripts utilize an event system that allows them to communicate with each other, and therefore allow using them like modular building blocks by scene builders. This is comparable to Unreal 4's blueprint system, just without the fancy visual node system.
+Every script can be configured through it's exposed script parameters. Scripts utilize an event system that allows them to communicate with each other, and therefore allow using them like modular building blocks by scene builders. This is comparable to Unreal Engine 4's blueprint system, just without the fancy visual node system.
 
 The tutorials here will show how to _use_ scripts and not how to write them.
 
@@ -15,13 +15,12 @@ The tutorials here will show how to _use_ scripts and not how to write them.
 |1|**[Intro to scripts](pages/intro-to-scripts.md)**|
 |2|**Sansar Script Library**|
 |3|**Script Examples**|
-|3.1|&nbsp;&nbsp;Hello World|
-|3.2|&nbsp;&nbsp;[Click to open](pages/click-to-open.md)|
-|3.3|&nbsp;&nbsp;Flashing Lights|s
-|3.4|&nbsp;&nbsp;Elevator|
-|3.5|&nbsp;&nbsp;Flashlight|
-|3.6|&nbsp;&nbsp;Gun with physical bullets|
-|3.7|&nbsp;&nbsp;Visitor Greeter|
+|3.1|&nbsp;&nbsp;[Hello World](pages/hello-world.md)|
+|3.2|&nbsp;&nbsp;[Door](pages/door.md)|
+|3.3|&nbsp;&nbsp;Elevator|
+|3.4|&nbsp;&nbsp;Flashlight|
+|3.5|&nbsp;&nbsp;Gun with physical bullets|
+|3.6|&nbsp;&nbsp;Visitor Greeter|
 |4|**Evo's Logic Scripts**|
 |4.1|&nbsp;&nbsp;Toggle|
 |4.2|&nbsp;&nbsp;State Machine|

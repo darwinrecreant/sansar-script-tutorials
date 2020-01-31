@@ -1,8 +1,8 @@
-# Click to Open Tutorial
+# Door Tutorial
 
 > [Back](../README.md)
 
-This is a simple example to create a click-to-open behaviour, like a door.
+This is a simple example to create a click-to-open behaviour, like on a door.
 
 ## Setup
 
@@ -24,16 +24,16 @@ Go ahead, build your scene and test.
 
 ## Bonus Scripts
 
-Now we can expand the behavior of the door with more scripts. For example, lets add a timer on the door so that it auto-closes after 5 seconds after it was opened.
+Now we can expand the behavior of the door with more scripts. For example, lets add a timer on the door so that it auto-closes after 5 seconds after it was opened with the `Timed Events` sansar script.
 
 ![click to open timer](../assets/click-to-open-timer.png)
 
 In the above script we set timer to 5 seconds, which starts counting seconds when the open event fires, and triggers the close event when its done counting. Also we disable the timer when the close event was fired because we do not need the timer any longer if its already being closed. Don't forget to add `{object}` to keep communication with other scripts in the object.
 
-Next we can add some sounds, I found free [open door sound](https://store.sansar.com/listings/138aadd3-c188-42a0-bd77-c701690daf2a/hinged-door-opening) and [close door sound](https://store.sansar.com/listings/ffcb49c4-6d75-45a2-ab5a-855ebe809886/hinged-door-closed) on the store that we can use. Now we can just need to add two sound sansar scripts:
+Next we can add some sounds, I found free [open door sound](https://store.sansar.com/listings/138aadd3-c188-42a0-bd77-c701690daf2a/hinged-door-opening) and [close door sound](https://store.sansar.com/listings/ffcb49c4-6d75-45a2-ab5a-855ebe809886/hinged-door-closed) on the store that we can use. Now we can just need to add two `Sound` sansar scripts:
 
 ![click to open sounds](../assets/click-to-open-sounds.png)
 
 ## Conclusion
 
-We now have a functioning door with 5 sansar scipts that auto closes after 5 seconds and plays opening/closing sounds.
+We now have a functioning door with 5 sansar scipts in that auto closes after 5 seconds and plays opening/closing sounds.

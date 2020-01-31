@@ -2,6 +2,10 @@
 
 > [Back](../README.md)
 
+Scripts are writtin in C# and have access to Sansar api that allow scene builders to add extra functionality to an experience and it's visitors.
+
+Every script can be configured through it's exposed script parameters found in `Script Properties`. Scripts utilize an event system that allows them to communicate with each other, and therefore allow using them like modular building blocks by scene builders. This is comparable to Unreal Engine 4's blueprint system, just without the fancy visual node system.
+
 ## Script Properties
 
 Almost every script has parameters exposed to the user so they can configure it. The script parameters can be reached by right clicking the script in `Object Structure` and selecting `Properties`.
