@@ -4,7 +4,7 @@
 
 The following visitor greeter will prints a message in chat and plays a bell sound when someone enters the experience, and says in chat when they leave.
 
-We will use a reception bell sound, which is available [free on the store](https://store.sansar.com/listings/b6cad1ba-1d8d-48e4-88a5-28654a29769e/reception-bell)
+We will use a reception bell sound, which is available [free on the store](https://store.sansar.com/listings/b6cad1ba-1d8d-48e4-88a5-28654a29769e/reception-bell).
 
 ![visitor greeter](../assets/visitor-greeter.png)
 
